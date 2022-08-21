@@ -1,0 +1,11 @@
+com.fasterxml.jackson.databind.deser.jdk.UtilCollectionsTypesTest::testUnmodifiableList
+com.fasterxml.jackson.databind.deser.jdk.UtilCollectionsTypesTest::testUnmodifiableMap
+com.fasterxml.jackson.databind.deser.jdk.UtilCollectionsTypesTest::testUnmodifiableSet
+com.fasterxml.jackson.databind.deser.jdk.UtilCollectionsTypesTest::testArraysAsList
+com.fasterxml.jackson.databind.deser.jdk.UtilCollectionsTypesTest::testUnmodifiableListFromLinkedList
+com.fasterxml.jackson.databind.deser.jdk.UtilCollectionsTypesTest::testEmptyList
+com.fasterxml.jackson.databind.deser.jdk.UtilCollectionsTypesTest::testSingletonMap
+com.fasterxml.jackson.databind.deser.jdk.UtilCollectionsTypesTest::testSingletonSet
+com.fasterxml.jackson.databind.deser.jdk.UtilCollectionsTypesTest::testSingletonList
+com.fasterxml.jackson.databind.deser.jdk.UtilCollectionsTypesTest::testEmptyMap
+com.fasterxml.jackson.databind.deser.jdk.UtilCollectionsTypesTest::testEmptySet

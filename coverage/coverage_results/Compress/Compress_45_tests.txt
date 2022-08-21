@@ -1,0 +1,16 @@
+org.apache.commons.compress.archivers.tar.TarUtilsTest::testRoundTripOctalOrBinary8
+org.apache.commons.compress.archivers.tar.TarUtilsTest::testParseOctal
+org.apache.commons.compress.archivers.tar.TarUtilsTest::testName
+org.apache.commons.compress.archivers.tar.TarUtilsTest::testReadNegativeBinary12Byte
+org.apache.commons.compress.archivers.tar.TarUtilsTest::testReadNegativeBinary8Byte
+org.apache.commons.compress.archivers.tar.TarUtilsTest::testWriteNegativeBinary8Byte
+org.apache.commons.compress.archivers.tar.TarUtilsTest::testRoundTripNames
+org.apache.commons.compress.archivers.tar.TarUtilsTest::testRoundTripOctal
+org.apache.commons.compress.archivers.tar.TarUtilsTest::testVerifyHeaderCheckSum
+org.apache.commons.compress.archivers.tar.TarUtilsTest::testRoundTripOctalOrBinary12
+org.apache.commons.compress.archivers.tar.TarUtilsTest::testParseOctalCompress330
+org.apache.commons.compress.archivers.tar.TarUtilsTest::testOverflow
+org.apache.commons.compress.archivers.tar.TarUtilsTest::testParseOctalInvalid
+org.apache.commons.compress.archivers.tar.TarUtilsTest::testRoundEncoding
+org.apache.commons.compress.archivers.tar.TarUtilsTest::testNegative
+org.apache.commons.compress.archivers.tar.TarUtilsTest::testTrailers

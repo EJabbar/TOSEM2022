@@ -1,0 +1,4 @@
+com.fasterxml.jackson.core.read.NonStandardUnquotedNamesTest::testLargeUnquoted
+com.fasterxml.jackson.core.read.NonStandardUnquotedNamesTest::testUnquotedIssue510
+com.fasterxml.jackson.core.read.NonStandardUnquotedNamesTest::testSimpleUnquotedBytes
+com.fasterxml.jackson.core.read.NonStandardUnquotedNamesTest::testSimpleUnquotedChars

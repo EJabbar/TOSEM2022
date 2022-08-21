@@ -1,0 +1,16 @@
+com.fasterxml.jackson.databind.ser.std.NumberSerializer,jump,46,47
+com.fasterxml.jackson.databind.ser.std.NumberSerializer,jump,54,55
+com.fasterxml.jackson.databind.ser.std.NumberSerializer,switch,55,58
+com.fasterxml.jackson.databind.ser.std.NumberSerializer,jump,69,70
+com.fasterxml.jackson.databind.ser.std.NumberSerializer,jump,71,72
+com.fasterxml.jackson.databind.ser.std.NumberSerializer,jump,76,77
+com.fasterxml.jackson.databind.ser.std.NumberSerializer,jump,78,79
+com.fasterxml.jackson.databind.ser.std.NumberSerializer,jump,80,81
+com.fasterxml.jackson.databind.ser.std.NumberSerializer,jump,82,83
+com.fasterxml.jackson.databind.ser.std.NumberSerializer,jump,92,98
+com.fasterxml.jackson.databind.ser.std.NumberSerializer,jump,98,99
+com.fasterxml.jackson.databind.ser.std.NumberSerializer,jump,101,102
+com.fasterxml.jackson.databind.ser.std.NumberSerializers$Base,jump,71,74
+com.fasterxml.jackson.databind.ser.std.NumberSerializers$Base,jump,85,86
+com.fasterxml.jackson.databind.ser.std.NumberSerializers$Base,jump,97,98
+com.fasterxml.jackson.databind.ser.std.NumberSerializers$Base,switch,98,100

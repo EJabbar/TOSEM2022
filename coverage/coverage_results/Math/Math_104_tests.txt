@@ -1,0 +1,11 @@
+org.apache.commons.math.special.GammaTest::testLogGammaPositive
+org.apache.commons.math.special.GammaTest::testLogGammaNegative
+org.apache.commons.math.special.GammaTest::testRegularizedGammaPositivePositive
+org.apache.commons.math.special.GammaTest::testRegularizedGammaPositiveNegative
+org.apache.commons.math.special.GammaTest::testLogGammaNan
+org.apache.commons.math.special.GammaTest::testRegularizedGammaNanPositive
+org.apache.commons.math.special.GammaTest::testRegularizedGammaZeroPositive
+org.apache.commons.math.special.GammaTest::testLogGammaZero
+org.apache.commons.math.special.GammaTest::testRegularizedGammaNegativePositive
+org.apache.commons.math.special.GammaTest::testRegularizedGammaPositiveNan
+org.apache.commons.math.special.GammaTest::testRegularizedGammaPositiveZero

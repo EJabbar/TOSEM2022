@@ -1,0 +1,7 @@
+org.apache.commons.math.stat.inference.ChiSquareFactoryTest::testChiSquareDataSetsComparisonEqualCounts
+org.apache.commons.math.stat.inference.ChiSquareFactoryTest::testChiSquareIndependence
+org.apache.commons.math.stat.inference.ChiSquareFactoryTest::testChiSquareDataSetsComparisonUnEqualCounts
+org.apache.commons.math.stat.inference.ChiSquareFactoryTest::testChiSquareZeroCount
+org.apache.commons.math.stat.inference.ChiSquareFactoryTest::testChiSquareLargeTestStatistic
+org.apache.commons.math.stat.inference.ChiSquareFactoryTest::testChiSquare
+org.apache.commons.math.stat.inference.ChiSquareFactoryTest::testChiSquareDataSetsComparisonBadCounts

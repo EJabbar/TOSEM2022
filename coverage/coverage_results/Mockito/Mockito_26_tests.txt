@@ -1,0 +1,5 @@
+org.mockito.internal.progress.HandyReturnValuesTest::should_return_handy_value_for_instances
+org.mockito.internal.progress.HandyReturnValuesTest::should_return_null_for_everything_else
+org.mockito.internal.progress.HandyReturnValuesTest::should_not_return_null_for_primitives_wrappers
+org.mockito.internal.progress.HandyReturnValuesTest::should_not_return_null_for_primitives
+org.mockito.internal.progress.HandyReturnValuesTest::should_default_values_for_primitive

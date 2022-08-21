@@ -1,0 +1,11 @@
+org.apache.commons.math.distribution.NormalDistributionTest::testExtremeValues
+org.apache.commons.math.distribution.NormalDistributionTest::testSetStandardDeviation
+org.apache.commons.math.distribution.NormalDistributionTest::testGetStandardDeviation
+org.apache.commons.math.distribution.NormalDistributionTest::testQuantiles
+org.apache.commons.math.distribution.NormalDistributionTest::testGetMean
+org.apache.commons.math.distribution.NormalDistributionTest::testSetMean
+org.apache.commons.math.distribution.NormalDistributionTest::testInverseCumulativeProbabilityExtremes
+org.apache.commons.math.distribution.NormalDistributionTest::testInverseCumulativeProbabilities
+org.apache.commons.math.distribution.NormalDistributionTest::testCumulativeProbabilities
+org.apache.commons.math.distribution.NormalDistributionTest::testIllegalArguments
+org.apache.commons.math.distribution.NormalDistributionTest::testConsistency

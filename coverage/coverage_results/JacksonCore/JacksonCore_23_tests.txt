@@ -1,0 +1,8 @@
+com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testSystemLinefeed
+com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testUnixLinefeed
+com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testWindowsLinefeed
+com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testWithLineFeed
+com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testRootSeparator
+com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testInvalidSubClass
+com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testWithIndent
+com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testTabIndent

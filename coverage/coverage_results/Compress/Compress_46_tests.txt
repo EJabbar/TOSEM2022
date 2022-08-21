@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest::testGettersSetters
+org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest::testMisc
+org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest::testBitsAreSetWithTime
+org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest::testSampleFile
+org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest::testWriteReadRoundtrip
+org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest::testParseReparse
+org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest::testGetHeaderId

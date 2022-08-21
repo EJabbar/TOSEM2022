@@ -1,0 +1,17 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::readDeflate64CompressedStreamWithDataDescriptor
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::testOffsets
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::nameSourceDefaultsToName
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::shouldConsumeArchiveCompletely
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::readDeflate64CompressedStream
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::testReadingOfFirstStoredEntry
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::nameSourceIsSetToEFS
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::nameSourceIsSetToUnicodeExtraField
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::testUnshrinkEntry
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::properUseOfInflater
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::testMessageWithCorruptFileName
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::properlyMarksEntriesAsUnreadableIfUncompressedSizeIsUnknown
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::winzipBackSlashWorkaround
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::testUnzipBZip2CompressedEntry
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::testWithBytesAfterData
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::shouldReadNestedZip
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::testThrowOnInvalidEntry

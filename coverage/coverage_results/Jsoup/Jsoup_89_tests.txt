@@ -1,0 +1,6 @@
+org.jsoup.nodes.AttributeTest::settersOnOrphanAttribute
+org.jsoup.nodes.AttributeTest::testWithSupplementaryCharacterInAttributeKeyAndValue
+org.jsoup.nodes.AttributeTest::html
+org.jsoup.nodes.AttributeTest::booleanAttributesAreEmptyStringValues
+org.jsoup.nodes.AttributeTest::validatesKeysNotEmpty
+org.jsoup.nodes.AttributeTest::validatesKeysNotEmptyViaSet

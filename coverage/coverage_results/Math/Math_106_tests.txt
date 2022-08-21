@@ -1,0 +1,16 @@
+org.apache.commons.math.fraction.FractionFormatTest::testNumeratorFormat
+org.apache.commons.math.fraction.FractionFormatTest::testFormatImproperNegative
+org.apache.commons.math.fraction.FractionFormatTest::testFormatImproper
+org.apache.commons.math.fraction.FractionFormatTest::testParseProper
+org.apache.commons.math.fraction.FractionFormatTest::testParseProperNegative
+org.apache.commons.math.fraction.FractionFormatTest::testParse
+org.apache.commons.math.fraction.FractionFormatTest::testWholeFormat
+org.apache.commons.math.fraction.FractionFormatTest::testFormatZero
+org.apache.commons.math.fraction.FractionFormatTest::testFormatNegative
+org.apache.commons.math.fraction.FractionFormatTest::testParseInvalidDenominator
+org.apache.commons.math.fraction.FractionFormatTest::testDenominatorFormat
+org.apache.commons.math.fraction.FractionFormatTest::testParseProperInvalidMinus
+org.apache.commons.math.fraction.FractionFormatTest::testParseInteger
+org.apache.commons.math.fraction.FractionFormatTest::testParseInvalid
+org.apache.commons.math.fraction.FractionFormatTest::testFormat
+org.apache.commons.math.fraction.FractionFormatTest::testParseNegative

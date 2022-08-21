@@ -1,0 +1,4 @@
+org.jfree.chart.junit.AreaChartTests::testDrawWithNullInfo
+org.jfree.chart.junit.AreaChartTests::testSetSeriesToolTipGenerator
+org.jfree.chart.junit.AreaChartTests::testSetSeriesURLGenerator
+org.jfree.chart.junit.AreaChartTests::testReplaceDataset

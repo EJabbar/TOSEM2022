@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.DataDescriptorTest::doesntWriteDataDescriptorWhenAddingRawEntries
+org.apache.commons.compress.archivers.zip.DataDescriptorTest::doesntWriteDataDescriptorForDeflatedEntryOnSeekableOutput
+org.apache.commons.compress.archivers.zip.DataDescriptorTest::writesDataDescriptorForDeflatedEntryOnUnseekableOutput

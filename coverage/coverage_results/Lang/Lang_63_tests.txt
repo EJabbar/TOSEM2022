@@ -1,0 +1,11 @@
+org.apache.commons.lang.time.DurationFormatUtilsTest::testFormatPeriod
+org.apache.commons.lang.time.DurationFormatUtilsTest::testLexx
+org.apache.commons.lang.time.DurationFormatUtilsTest::testFormatDurationHMS
+org.apache.commons.lang.time.DurationFormatUtilsTest::testFormatDurationISO
+org.apache.commons.lang.time.DurationFormatUtilsTest::testFormatPeriodISO
+org.apache.commons.lang.time.DurationFormatUtilsTest::testFormatDurationPluralWords
+org.apache.commons.lang.time.DurationFormatUtilsTest::testBugzilla38401
+org.apache.commons.lang.time.DurationFormatUtilsTest::testFormatDuration
+org.apache.commons.lang.time.DurationFormatUtilsTest::testFormatDurationWords
+org.apache.commons.lang.time.DurationFormatUtilsTest::testJiraLang281
+org.apache.commons.lang.time.DurationFormatUtilsTest::testConstructor

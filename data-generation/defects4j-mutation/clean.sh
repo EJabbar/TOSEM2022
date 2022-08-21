@@ -1,0 +1,1 @@
+rm -rf ./tmp/* ./trace4j/projects/* ./trace4j/logs/* ./dataset/*

@@ -1,0 +1,4 @@
+org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValuesTest::should_return_non_zero_for_compareTo_method
+org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValuesTest::should_return_primitive
+org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValuesTest::should_return_empty_collections_or_null_for_non_collections
+org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValuesTest::should_return_zero_if_mock_is_compared_to_itself

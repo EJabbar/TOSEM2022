@@ -1,0 +1,7 @@
+com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToLongFailing
+com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToLongCoercion
+com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToIntFailing
+com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToBigDecimalCoercion
+com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToBigIntegerCoercion
+com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToDoubleCoercion
+com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToIntCoercion

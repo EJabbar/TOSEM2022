@@ -1,0 +1,11 @@
+org.jsoup.nodes.FormElementTest::createsFormData
+org.jsoup.nodes.FormElementTest::actionWithNoValue
+org.jsoup.nodes.FormElementTest::removeFormElement
+org.jsoup.nodes.FormElementTest::formsAddedAfterParseAreFormElements
+org.jsoup.nodes.FormElementTest::createsSubmitableConnection
+org.jsoup.nodes.FormElementTest::formDataUsesFirstAttribute
+org.jsoup.nodes.FormElementTest::controlsAddedAfterParseAreLinkedWithForms
+org.jsoup.nodes.FormElementTest::adoptedFormsRetainInputs
+org.jsoup.nodes.FormElementTest::usesOnForCheckboxValueIfNoValueSet
+org.jsoup.nodes.FormElementTest::hasAssociatedControls
+org.jsoup.nodes.FormElementTest::actionWithNoBaseUri
